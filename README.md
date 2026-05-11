@@ -65,6 +65,8 @@ The project follows the below workflow:
 - Cloud-based monitoring system
 
 ## Project Structure
+
+```text
 helmet-detection-license-plate-recognition/
 │
 ├── main.py
@@ -81,6 +83,7 @@ helmet-detection-license-plate-recognition/
 │
 └── assets/
     └── screenshots
+```
 
 GitHub:  
 [yaseen18-ux GitHub Profile](https://github.com/yaseen18-ux?utm_source=chatgpt.com)
