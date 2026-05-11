@@ -85,5 +85,3 @@ helmet-detection-license-plate-recognition/
     └── screenshots
 ```
 
-GitHub:  
-[yaseen18-ux GitHub Profile](https://github.com/yaseen18-ux?utm_source=chatgpt.com)
