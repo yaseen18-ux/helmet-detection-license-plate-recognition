@@ -41,6 +41,3 @@ python main.py
 - Real-time CCTV integration
 - Cloud database storage
 - Mobile notification system
-
-## Author
-Yaseen Tabassum
